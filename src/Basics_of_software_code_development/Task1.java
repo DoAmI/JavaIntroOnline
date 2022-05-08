@@ -1,6 +1,6 @@
 package Basics_of_software_code_development;
 
-/*решение линейной функции*/
+/*Найдите значение функции: z = ( (a – 3 ) * b / 2) + c*/
 
 import java.util.Scanner;
 

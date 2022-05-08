@@ -3,7 +3,9 @@ package Basics_of_software_code_development;
 import java.util.Scanner;
 import static java.lang.Math.*;
 
-/*задача 3*/
+/* Вычислить значение выражения по формуле (все переменные принимают действительные значения):
+* (𝑠𝑖𝑛 𝑥 + 𝑐𝑜𝑠 𝑦)/(𝑐𝑜𝑠 𝑥 − 𝑠𝑖𝑛 𝑦)+ tg xy
+* */
 public class Task3 {
     public static void main(String[] args) {
         /*ввод значений*/
