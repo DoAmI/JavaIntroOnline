@@ -1,7 +1,8 @@
 package Basics_of_software_code_development.Lineal;
 
 import java.util.Scanner;
-
+/*Для данной области составить линейную программу, которая печатает true, если точка с координатами (х, у)
+принадлежит закрашенной области, и false — в противном случае: */
 public class Task6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -11,7 +12,7 @@ public class Task6 {
     }
     private static boolean calculate(String values){
         /*метод для вычисления*/
-        /*минимальные и максимальные значения фигуры*/
+        /*минимальные и максимальные значения закрашенной фигуры*/
         int min_x = -4,max_x = 4,min_y = -3,max_y = 4;
 
         /*парсинг строки на переменные x и y*/
