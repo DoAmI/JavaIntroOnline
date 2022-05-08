@@ -1,4 +1,4 @@
-package Basics_of_software_code_development;
+package Basics_of_software_code_development.Lineal;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;

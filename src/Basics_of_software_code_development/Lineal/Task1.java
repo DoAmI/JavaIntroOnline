@@ -1,4 +1,4 @@
-package Basics_of_software_code_development;
+package Basics_of_software_code_development.Lineal;
 
 /*Найдите значение функции: z = ( (a – 3 ) * b / 2) + c*/
 
